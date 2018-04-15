@@ -21,4 +21,4 @@ Build and run using Docker Compose:
 	$ docker login
 	$ docker-cloud stack up
 
-Hello world! by Niko PERUNA
+Hello world! by Niko PERUNA ja Nore
